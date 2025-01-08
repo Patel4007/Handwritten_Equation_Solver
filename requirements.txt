@@ -1,0 +1,7 @@
+numpy
+pandas
+keras
+opencv-python
+matplotlib
+Pillow
+tkinter
