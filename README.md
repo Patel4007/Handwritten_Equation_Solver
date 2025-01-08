@@ -18,13 +18,13 @@ Install the necessary dependencies using pip:
 
 ## Required Libraries:
 
-numpy
-pandas
-keras
-opencv-python
-matplotlib
-Pillow
-tkinter
+- numpy
+- pandas
+- keras
+- opencv-python
+- matplotlib
+- Pillow
+- tkinter
 
 ## Usage
 
