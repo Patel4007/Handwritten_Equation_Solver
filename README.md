@@ -49,6 +49,7 @@ Use p3.py to load the trained model and use the GUI to upload an image of a hand
 The GUI allows you to:
 
 Open an image of a handwritten equation.
+
 Display the equation and its solution.
 
 ## License
