@@ -12,8 +12,8 @@ p3.py: A Tkinter-based GUI that allows users to upload images of handwritten equ
 
 ## Project Output
 
-<img src="image1.png" width="700" height="300">
-<img src="image2.png" width="700" height="300">
+<img src="images/image1.png" width="700" height="300">
+<img src="images/image2.png" width="700" height="300">
   
 
 ## Requirements
