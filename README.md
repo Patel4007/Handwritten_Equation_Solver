@@ -10,6 +10,12 @@ p2.py: Defines and trains a Convolutional Neural Network (CNN) model using Keras
 
 p3.py: A Tkinter-based GUI that allows users to upload images of handwritten equations, processes them, and displays the result of the equation after prediction by the trained model.
 
+## Project Output
+
+<img src="image1.png" width="700" height="300">
+<img src="image2.png" width="700" height="300">
+  
+
 ## Requirements
 
 Install the necessary dependencies using pip:
